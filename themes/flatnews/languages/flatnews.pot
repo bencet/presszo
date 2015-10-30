@@ -1,0 +1,490 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flatnews 1.3\n"
+"POT-Creation-Date: 2013-11-18 09:23+0700\n"
+"PO-Revision-Date: 2013-11-18 09:23+0700\n"
+"Last-Translator: \n"
+"Language-Team: wpinhands <nguyentien.jobs@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "Oops, This Page Could Not Be Found!"
+msgstr ""
+
+#: ../comments.php:34
+msgid "Permalink"
+msgstr ""
+
+#: ../comments.php:43
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../comments.php:49
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:86
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:87
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:88
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:93
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-authorbox.php:25 ../content-authorbox.php:28
+msgid "Posted by"
+msgstr ""
+
+#: ../content-none.php:1
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with "
+"different keywords."
+msgstr ""
+
+#: ../content-pagination.php:22
+msgid "Newer Post"
+msgstr ""
+
+#: ../content-pagination.php:26
+msgid "Older Post"
+msgstr ""
+
+#: ../home.php:24 ../home.php:26 ../index.php:17 ../index.php:19
+#: ../includes/widgets/define_widgets.php:159
+#: ../includes/widgets/define_widgets.php:161
+#: ../includes/widgets/define_widgets.php:163
+#: ../includes/widgets/define_widgets.php:165
+#: ../includes/widgets/define_widgets.php:482
+#: ../includes/widgets/define_widgets.php:484
+#: ../includes/widgets/define_widgets.php:809
+#: ../includes/widgets/define_widgets.php:812
+msgid "Click to read"
+msgstr ""
+
+#: ../single.php:87
+msgid "Tagged with"
+msgstr ""
+
+#: ../single.php:94
+msgid "Like to share?"
+msgstr ""
+
+#: ../includes/theme_init.php:17
+msgid "Top Page List"
+msgstr ""
+
+#: ../includes/theme_init.php:18
+msgid "Drop Down Menu"
+msgstr ""
+
+#: ../includes/theme_init.php:53
+msgid "Page"
+msgstr ""
+
+#: ../includes/theme_init.php:68
+msgid "Social Links for Author box"
+msgstr ""
+
+#: ../includes/theme_init.php:72
+msgid "Twitter URL"
+msgstr ""
+
+#: ../includes/theme_init.php:79
+msgid "Facebook URL"
+msgstr ""
+
+#: ../includes/theme_init.php:86
+msgid "Google+ URL"
+msgstr ""
+
+#: ../includes/theme_init.php:93
+msgid "Youtube URL"
+msgstr ""
+
+#: ../includes/theme_init.php:100
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../includes/theme_init.php:107
+msgid "Instagram URL"
+msgstr ""
+
+#: ../includes/theme_init.php:114
+msgid "RSS Feed"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:29
+msgid "Social Links"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:41
+msgid " Link"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:58
+msgid "Blog logo"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:68
+msgid "Favicon Image"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:78
+msgid "Color, Fonts, Background"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:88
+msgid "Main Color"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:98
+msgid "Background Color"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:109
+msgid "Background Image"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:121
+msgid "EMPHASIS Font (for titles)"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:131
+msgid "BODY Font (for content)"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:141
+msgid "Content Settings"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:148
+msgid "Default thumbnail"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:157
+msgid "Ticker Delay (s), larger is slower"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:166
+msgid "Delay between slide animations (ms)"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:174
+msgid "Speed to animate each slide (ms)"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:183
+msgid "Right To Left Language (RTL)"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:193
+msgid "Show Breaknews for all pages"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:203
+msgid "Hide feature image in post detail"
+msgstr ""
+
+#: ../includes/customize/register_customize.php:214
+msgid "Hide excerpt in post detail"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:38
+msgid "Please enter your name!"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:41
+msgid "Please enter your e-mail!"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:44
+msgid "Please enter a valid e-mail!"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:47
+msgid "Please enter your message!"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:56
+msgid "From"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:56
+msgid "Contact Page"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:71
+msgid "Message:"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:73
+msgid "Name:"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:74
+msgid "Website:"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:75
+msgid "E-mail:"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:76
+msgid "IP Address:"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:160
+msgid "You didn't enter your name."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:164
+msgid "Name has a wrong length."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:178
+msgid "You didn't enter email address."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:181
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:196
+msgid "You didn't enter message."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:200
+msgid "The message is to short."
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:224
+msgid "Name"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:233
+msgid "E-mail"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:241
+msgid "Website"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:248
+msgid "Comment"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:258
+msgid "Send contact form"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:271
+msgid "Thanks!"
+msgstr ""
+
+#: ../includes/shortcodes/sc-contact.php:272
+msgid "Your message has been sent!"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:11
+msgid "News Article Box"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:12
+msgid ""
+"Drag this widget into [&#10132; Break Section] or [&#10132; Flexible Home "
+"Layout] to build your home layout"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:41
+#: ../includes/widgets/define_widgets.php:244
+#: ../includes/widgets/define_widgets.php:326
+#: ../includes/widgets/define_widgets.php:566
+#: ../includes/widgets/define_widgets.php:664
+msgid "Title"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:48
+msgid "Get posts from"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:57
+msgid "Design type"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:74
+msgid "Category:"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:95
+msgid "Post count:"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:149
+#: ../includes/widgets/define_widgets.php:151
+msgid "View all posts"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:209
+msgid "No posts where found"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:230
+msgid "Social Icons"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:231
+msgid ""
+"Drag this widget into [&#10132; Right Side] sections to display social icons"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:291
+msgid "Feed Data"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:292
+msgid "Show popular posts, recent posts, random posts or recent comments"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:333
+msgid "Load Feed From"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:346
+#: ../includes/widgets/define_widgets.php:673
+msgid "Show Meta"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:353
+#: ../includes/widgets/define_widgets.php:680
+msgid "Show Thumbnail"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:358
+#: ../includes/widgets/define_widgets.php:685
+msgid "Post count"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:365
+#: ../includes/widgets/define_widgets.php:692
+msgid "Duration"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:512
+msgid "on"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:524
+msgid "said:"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:551
+msgid "Flickr Widget"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:552
+msgid "Show your flickr photos, just input flickr ID"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:573
+msgid "Flickr ID (ex: 52617155@N08)"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:579
+msgid "Number images"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:635
+msgid "Related Post Widget"
+msgstr ""
+
+#: ../includes/widgets/define_widgets.php:636
+msgid ""
+"This widget is affect in single post (article page) only. Using this widget "
+"to show releated posts of current post"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:7
+msgid "&#10132; Header Ads"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:9
+msgid "Add your ads for Header section here, maximum width is 728px"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:17
+msgid "&#10132; Break Section"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:19
+msgid "You can add news box here for break news or add ads (max width: 728px)"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:27
+msgid "&#10132; Flexible Home Layout"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:29
+msgid "Add news widgets to this area to build your own home layout"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:37
+msgid "&#10132; Post Footer Section"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:39
+msgid "Add widgets to show them under each post content"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:47
+msgid "&#10132; Right Side Top"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:49
+#: ../includes/widgets/register_widgets.php:69
+msgid "Add widgets to this area to display on top of right side bar"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:57
+msgid "&#10132; Right Side TAB"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:59
+msgid "Add widgets to this area to display as TABs on right side bar"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:67
+msgid "&#10132; Right Side Bottom"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:77
+msgid "&#10132; Bottom Ads"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:79
+msgid ""
+"Add your ads to this area to display under the flexible home layout, maximum "
+"width is 728px"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:87
+msgid "&#10132; Footer Section"
+msgstr ""
+
+#: ../includes/widgets/register_widgets.php:89
+msgid "Add widgets to this area to display on footer of website"
+msgstr ""

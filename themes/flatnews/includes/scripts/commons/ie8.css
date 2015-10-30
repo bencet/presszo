@@ -1,0 +1,46 @@
+/*spcecial for IE 8*/
+#break-section {z-index:1}
+#primary {z-index:1}
+#flexible-home-layout-section .news-box.hot .item .meta {
+	height: 20px;
+}
+#flexible-home-layout-section .news-box.three .item .meta,
+#flexible-home-layout-section .news-box.three .item h3.title {
+	float: none!important;
+	clear: both!important;
+}
+#flexible-home-layout-section .news-box.dark .item .meta,
+#flexible-home-layout-section .news-box.dark .item h3.title {
+	float: none!important;
+}
+
+#flexible-home-layout-section .news-box.two .item .meta,
+#flexible-home-layout-section .news-box.left-col .item .meta,
+#flexible-home-layout-section .news-box.right-col .item .meta {
+	float: none!important;
+	height: 20px;
+}
+
+#flexible-home-layout-section .news-box.two .item h3.title,
+#flexible-home-layout-section .news-box.left-col .item h3.title,
+#flexible-home-layout-section .news-box.right-col .item h3.title {
+	float: none!important;
+}
+
+#flexible-home-layout-section .news-box.combine .item.item-first h3.title,
+#flexible-home-layout-section .news-box.combine .item.item-first .meta,
+#flexible-home-layout-section .news-box.combine .item.item-first .snippet {
+	float: none!important;
+	display: block!important;
+	width: 720px;
+	min-height: 25px;
+}
+
+#flexible-home-layout-section .news-box.combine .item.item-first .item-thumbnail {
+	float: left!important;
+}
+.blog-title {
+	width: 330px;
+}
+
+

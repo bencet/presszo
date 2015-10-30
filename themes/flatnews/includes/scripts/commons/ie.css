@@ -1,0 +1,23 @@
+.header-line-2.table .tr .td{display:block;float:left}
+.blog-title {margin: 5px 0 0 20px}
+.meta a {display:block;float:left;}
+.news-box.three .meta {width:100%;clear:both;padding:0 0 10px 0}
+.news-box.dark h3.title{float:left;}
+.news-box.dark .meta{padding: 10px 0 0 0}
+.news-box.left-col .item-other a.item-thumbnail,.news-box.right-col .item-other a.item-thumbnail {margin: 0 10px 0 0}
+.news-box.left-col .item-other h3.title, .news-box.right-col .item-other h3.title {float:left;margin:0!important;min-width:50%}
+.news-box.left-col .item-other .meta, .news-box.right-col .item-other .meta {float:left;margin:5px 0 0 0!important;min-width:50%}
+.news-box.combine .item-first h3.title {float:left}
+#footer-section .widget {display:block;float:left}
+#copyright {clear:both}
+#break-section {z-index:-1}
+#primary {z-index:-1}
+#drop-down-menu {z-index:99}
+#drop-down-menu ul.sub-menu{z-index:99;width:240px}
+.tagcloud a {float:none;line-height:2.5em}
+.post-header .meta.post-meta a.comment, .post-header .meta.post-meta a.date, .post-header .meta.post-meta .cate a {float:none;*display:inline-block}
+.comments .comment-block {margin-top:-25px;border:1px solid #eee}
+.avatar-image-container {border: 1px solid #eee}
+.meta-post-archive {float:left;margin:5px 0 5px 20px!important;min-width:50%}
+.meta.meta-post-archive a.comment, .meta.meta-post-archive a.date, .meta.meta-post-archive .cate a {float:none;*display:inline-block}
+.post-body-archive {min-width:50%}
