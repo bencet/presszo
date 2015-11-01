@@ -28,6 +28,9 @@ function register_scripts_styles() {
 	}
 	
 	wp_enqueue_script( 'global-js', THEME_URL_SCRIPTS_COMMONS . 'global.js', array('jquery'), THEME_VERSION );
+	wp_enqueue_script( 'presszo_scripts-js', THEME_URL_SCRIPTS_COMMONS . 'presszo_scripts.js', array('jquery'), THEME_VERSION );
+	wp_enqueue_script( 'google-map', 'https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false', array(), '3', true );
+	wp_enqueue_script( 'google-map-init',  THEME_URL_SCRIPTS . '/googlemap/maps.js', array('google-map', 'jquery'), '0.1', true );
 	
 	// addthis tool
 	if (is_singular()) {

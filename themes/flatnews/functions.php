@@ -46,6 +46,8 @@ define('THEME_URL_LIB', THEME_URL_INCLUDES.'lib/');
 
 define('THEME_URL_POST_EDITOR', THEME_URL_INCLUDES.'post_editor/');
 
+define('THEME_URL_EVENTS', THEME_URL_INCLUDES.'events/');
+
 
 
 /*Related Path*/
@@ -68,6 +70,8 @@ define('THEME_R_CUSTOMIZE', THEME_R_INCLUDES.'customize/');
 
 define('THEME_R_POST_EDITOR', THEME_R_INCLUDES.'post_editor/');
 
+define('THEME_R_EVENTS', THEME_R_INCLUDES.'events/');
+
 
 
 
@@ -86,6 +90,9 @@ get_template_part(THEME_R_SHORTCODES.'init-shortcodes');
 
 get_template_part(THEME_R_POST_EDITOR.'post_editor_init');
 
+get_template_part(THEME_R_EVENTS.'events_init');
+
 add_filter('login_errors',create_function('$a', "return null;"));
 
 remove_action('wp_head', 'wp_generator');
+
